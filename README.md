@@ -25,9 +25,9 @@ If PostHog has a HogFlix 3000 demo for its sales team, this is my personal demo:
 - A love letter to weird, open-source-inspired products.
 
 ## Roadmap
-**Day 1:** Basic layout, Transparency Meter, README draft.  
-**Day 2:** 0 to 1 Page, Fake Commit Log, AI jokes.  
-**Day 3:** Charles Cook Easter eggs (Serbia, sandwiches, interior design mode).  
-**Day 4:** Deploy to GitHub Pages/Vercel with final “See you on Superday, Max!” note.
-**Day 5:** ONE HEDGHOG TO RULE THEM ALL!
+**Step 1:** Basic layout, Transparency Meter, README draft.  
+**Step 2:** 0 to 1 Page, Fake Commit Log, AI jokes.  
+**Step 3:** Charles Cook Easter eggs (Serbia, sandwiches, interior design mode).  
+**Step 4:** Deploy to GitHub Pages
+**Step 5:** ONE HEDGHOG TO RULE THEM ALL! (*install PostHog to my app*)
 
