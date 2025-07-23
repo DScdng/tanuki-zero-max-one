@@ -1,4 +1,6 @@
 # Tanuki and Max: My 0 to 1 Journey
+**Live Demo:** [Click here to visit the app](https://dscdng.github.io/tanuki-zero-max-one/) 🎉
+
 
 Welcome to **tanuki-max-zero-one**, a weird little web app I’m building as a tribute to PostHog’s culture, Charles Cook, and my own journey from GitLab’s Tanuki to PostHog’s Max the Hedgehog.  
 
