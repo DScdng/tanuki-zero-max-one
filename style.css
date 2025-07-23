@@ -5,13 +5,28 @@ body {
     margin: 0;
     padding: 0;
   }
+  
   header {
     background: #ffefcc;
     padding: 20px;
     border-bottom: 2px solid #e0e0e0;
   }
+  
   #transparency-meter {
     margin: 50px auto;
     max-width: 400px;
   }
+  
+  .mascot-container {
+    text-align: center;
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+  }
+  
+  .mascot-img {
+    width: 400px;   
+    height: auto;
+    border-radius: 8px;
+  }
+  
   

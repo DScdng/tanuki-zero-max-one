@@ -13,9 +13,9 @@ Because *Zero to One* says the next step in tech comes from bold, weird leaps an
 - **Charles-in-Serbia Easter Eggs:** Ajvar, interior design inspiration, and questionable sandwich humor.
 
 ## My 0 to 1 Story
-- Started at **GitLab** — right out of high school, hired by Sid (CEO) to run Reddit, Hacker News, and Twitter for GitLab.  
-- **Respondo** — founded a startup that centralized developer feedback across social/forums (think Tanuki with superpowers).  
-- **Humanitec** — closed €780K ARR with inbound platform engineering users. Learned that engineers love transparency (and hate BS).  
+- Started at **GitLab** - right out of high school, hired by Sid (CEO) to run Reddit, Hacker News, and Twitter for GitLab.  
+- **Respondo** - founded a startup that centralized developer feedback across social/forums (think Tanuki with superpowers).  
+- **Humanitec** - closed €780K ARR with inbound platform engineering users. Learned that engineers love transparency (and hate BS).  
 - **PostHog (Next):** Max the Hedgehog is basically Tanuki 2.0 — more transparent, more fun, and way weirder. 
 
 ## Why This Repo Exists
@@ -30,4 +30,3 @@ If PostHog has a HogFlix 3000 demo for its sales team, this is my personal demo:
 **Step 3:** Charles Cook Easter eggs (Serbia, sandwiches, interior design mode).  
 **Step 4:** Deploy to GitHub Pages
 **Step 5:** ONE HEDGHOG TO RULE THEM ALL! (*install PostHog to my app*)
-
